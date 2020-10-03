@@ -11,8 +11,8 @@ declare(strict_types=1);
 namespace BeastBytes\WebpackManifestAsset\Exception;
 
 /**
- * Class InvalidConfigException.
+ * Class InvalidArgumentException.
  */
-class InvalidConfigException extends \Exception
+class InvalidArgumentException extends \Exception
 {
 }
